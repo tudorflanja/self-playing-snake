@@ -89,7 +89,7 @@ It then selects the turn with the **largest available gap**, improving long-term
 - `Snake` class – Handles movement, collision prediction, direction decisions  
 - `Food` class – Random food spawning and rendering  
 - `drawGrid()` – Renders checkerboard game board  
-- `README.md` – Project documentation (this file)  
+- `README.md` – Project documentation
 
 ---
 

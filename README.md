@@ -101,3 +101,45 @@ It then selects the turn with the **largest available gap**, improving long-term
 2. Install Pygame:
    ```bash
    pip install pygame
+
+   Open the folder containing `main.py`  
+
+Run the file:
+
+python main.py  
+
+---
+
+### Option 2 — Run from Terminal
+
+pip install pygame  
+python main.py  
+
+A new window will open, and the AI snake will begin playing autonomously.
+
+---
+
+## 🧠 Key Concepts Demonstrated
+
+- Autonomous movement in a dynamic environment  
+- Collision prediction & avoidance  
+- Spatial reasoning across a grid  
+- Multi-stage decision-making  
+- Real-time Pygame rendering  
+- Object-oriented programming in game design  
+
+---
+
+## 📝 Conclusion
+
+The Self-Playing Snake AI showcases how simple rule-based logic and grid analysis can produce believable autonomous behavior.  
+Through incremental improvements—food tracking, collision prevention, predictive turning, and gap analysis—the snake evolves from a naive agent to a more robust survivor.
+
+This project demonstrates foundational ideas relevant to:
+
+- 🤖 AI agent design  
+- 🧠 Pathfinding strategies (introductory level)  
+- 🎮 Game development  
+- 🐍 Python OOP and Pygame  
+
+Feel free to modify and extend the AI logic with new strategies, heuristics, or even full-fledged pathfinding algorithms!

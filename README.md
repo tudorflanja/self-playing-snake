@@ -97,25 +97,32 @@ It then selects the turn with the **largest available gap**, improving long-term
 
 ### **Option 1 — Run in VS Code**
 
-1. Install Python 3.x  
-2. Install Pygame:
-   ```bash
-   pip install pygame
+1. Install **Python 3.x**
+2. Install **Pygame**:
 
-   Open the folder containing `main.py`  
+        pip install pygame
 
-Run the file:
+3. Open the folder containing `main.py` in VS Code
+4. Run the file:
 
-python main.py  
+        python main.py
+
 
 ---
 
 ### Option 2 — Run from Terminal
 
-pip install pygame  
-python main.py  
+1. Install Pygame:
+
+        pip install pygame
+
+2. Run the project:
+
+        python main.py
+
 
 A new window will open, and the AI snake will begin playing autonomously.
+
 
 ---
 

@@ -143,3 +143,7 @@ This project demonstrates foundational ideas relevant to:
 - 🐍 Python OOP and Pygame  
 
 Feel free to modify and extend the AI logic with new strategies, heuristics, or even full-fledged pathfinding algorithms!
+
+---
+
+This project was developed in collaboration with Daian Mihai, as part of our studies at the Technical University of Cluj-Napoca (UTCN) 🎓.

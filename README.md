@@ -153,4 +153,4 @@ Feel free to modify and extend the AI logic with new strategies, heuristics, or 
 
 ---
 
-This project was developed in collaboration with Dobre Mircea, as part of our studies at the Technical University of Cluj-Napoca (UTCN) 🎓.
+This project was created in collaboration with Dobre Mircea for the Artificial Intelligence course at the Technical University of Cluj-Napoca (UTCN) 🎓.
